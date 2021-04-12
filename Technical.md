@@ -1,0 +1,1 @@
+[Materialized Column- An Efficient Way to Optimize Queries on Nested Columns](http://mp.weixin.qq.com/s?__biz=MzA5MTc0NTMwNQ==&mid=2650726000&idx=1&sn=dc5035f32ca2d13b315cbf28ee51335c&chksm=887dc306bf0a4a10afc361bdd840de316d83f51d33879c1000b5996118563c4df4c2af0c9bc6#rd)
