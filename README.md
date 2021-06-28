@@ -10,7 +10,7 @@
 
 ## Education
          
-* XXXXColleage&emsp;&emsp;&emsp;&emsp;&emsp;2009.9~2013.7&emsp;&emsp;&emsp;&emsp; Software Engineering-Bachlor`s Degree
+* Tongji University&emsp;&emsp;&emsp;&emsp;&emsp;2009.9~2013.7&emsp;&emsp;&emsp;&emsp; Software Engineering,Bachlor`s Degree
 
 ## Language Skills
 
