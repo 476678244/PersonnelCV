@@ -18,20 +18,21 @@
 * Software Engineering
 * Bachlor`s Degree
 
-## Language Skills
+## Programming Skills
 
 * Scala, Java, Python
 
-## Project Experience
+## Working Experience
 
-* Coupang
-PO Automation & Fresh Ordering
+* Coupang 2016.11 ~ Current
+>PO Automation & Fresh Ordering
 
-* Red
-WMS
+* Red 2016.9 ~ 2016.10
+>WMS
 
-* SAP Success Factors
-Role Based Permission
+* SAP Success Factors 2012.7 ~ 2016.9
+>Role Based Permission
+>Job Profile Management
 
 ## Speech Experience
 * Fresh Scrap Prediction
