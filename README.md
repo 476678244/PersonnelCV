@@ -23,14 +23,18 @@
 
 ## Working Experience
 
-* Coupang 2016.11 ~ Current
+* Coupang, Supply Chain Management team 2016.11 ~ Current
+Senior Software Engineer
 >PO Automation & Fresh Ordering
 
-* Red 2016.9 ~ 2016.10
+* Red, WMS team 2016.9 ~ 2016.10
+Java Developer
 >WMS
 
-* SAP Success Factors 2012.7 ~ 2016.9
+* SAP Success Factors, Platform team 2012.7 ~ 2016.9
+Software Engineer
 >Role Based Permission
+Software Engineer Associate
 >Job Profile Management
 
 ## Speech Experience
