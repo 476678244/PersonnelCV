@@ -39,7 +39,7 @@
 ### SAP Success Factors, Platform team 
 *  Software Engineer Associate & company wide new employee trainer
 *  2012.7 ~ 2016.9
-*  Project Description:Role Based Permission, Job Profile Management
+*  Project Description:Role Based Permission, Job Profile Management, Hana/Oracle Migration Tool
 *  Skills: Jboss, Seam, Oracle, Hana
 
 ## Speech Experience
