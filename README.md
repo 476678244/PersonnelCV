@@ -27,7 +27,7 @@
 *   Senior Software Engineer
 *   2016.11 ~ Current
 *   Project Description: Core PO Automation, Fresh Ordering, Inbound Simulation, OOS/Scrap Analysis/Prediction, Task Engine
-*   Skills: Spark in Scala, Redshift, Mongodb, Spring, AWS, PySpark, Tensorflow
+*   Skills: Spark in Scala, Redshift, Mongodb, Spring, AWS, PySpark, Tensorflow Keras
 
 ### Red, WMS team 
 *  Java Developer
