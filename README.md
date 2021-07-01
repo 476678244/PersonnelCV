@@ -17,7 +17,7 @@
 > 2009.9~2013.7
 > Software Engineering in Bachlor`s Degree
 
-## Programming Skills
+## Programming Language Skills
 
 * Scala, Java, Python
 
