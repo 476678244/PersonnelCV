@@ -23,23 +23,30 @@
 
 ## Working Experience
 
-* Coupang, Supply Chain Management team 2016.11 ~ Current
-Senior Software Engineer
->PO Automation & Fresh Ordering
+### Coupang, Supply Chain Management team
+*   Senior Software Engineer
+*     2016.11 ~ Current
+*   Project Description: Core PO Automation, Fresh Ordering, Inbound Simulation, OOS/Scrap Analysis/Prediction, Task Engine
+*   Skills: Spark in Scala, Redshift, Mongodb, Spring, AWS, PySpark, Tensorflow
 
-* Red, WMS team 2016.9 ~ 2016.10
-Java Developer
->WMS
+### Red, WMS team 
+*  Java Developer
+*    2016.9 ~ 2016.10
+*  Project Description: Develop Red`s WMS system from scratch.
+*  Skills: Spring, Mybatis, JSP
 
-* SAP Success Factors, Platform team 2012.7 ~ 2016.9
-Software Engineer
->Role Based Permission
-Software Engineer Associate
->Job Profile Management
+
+### SAP Success Factors, Platform team 
+*  Software Engineer Associate & company wide new employee trainer
+*    2012.7 ~ 2016.9
+*  Project Description:Role Based Permission, Job Profile Management
+*  Skills: Jboss, Seam, Oracle, Hana
 
 ## Speech Experience
 * Fresh Scrap Prediction
+*  Coupang Reveal 2020 developer conference
 * SAP Smart Express
+*  SAP DKOM 
 
 ## Patent
 * Refreshing Framework
