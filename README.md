@@ -26,7 +26,12 @@
 ### Coupang, Supply Chain Management team
 *   Senior Software Engineer
 *   2016.11 ~ Current
-*   Project Description: Core PO Automation, Fresh Ordering, Inbound Simulation, OOS/Scrap Analysis/Prediction, Task Engine
+*   Projects: 
+*   PO Automation(Daily batch job to place purchase order automatically for 10,000,000 skus.) 
+*   Fresh Ordering(Daily batch job to place purchase order automatically for fresh skus which is composed of different kinds of models.)
+*   Inbound Simulation(Forecasing a range of days inbound, inventory and purchase order volume level and used for order strategy decision.)
+*   OOS/Scrap Root Cause Analysis and Prediction(Analysing OOS/Scraps reasons and preventing OOS/Scrap by predicting them in advance using Convolutional Neural Network.)
+*   Task Engine (A framework for managing spark job, can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
 *   Skills: Spark in Scala, Redshift, Mongodb, Spring, AWS, PySpark, Tensorflow Keras
 
 ### Red, WMS team 
