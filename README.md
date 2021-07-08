@@ -52,7 +52,7 @@
 * SAP Smart Express in SAP DKOM 
 
 ## Patent
-* Refreshing Framework
-* https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Wu%3B+Zonghan%22&OS=%22Wu;+Zonghan%22&RS=%22Wu;+Zonghan%22
-* Out of Stock Analysis
-* https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=%22Wu%3B+Zonghan%22&OS=%22Wu;+Zonghan%22&RS=%22Wu;+Zonghan%22
+* [Refreshing Framework](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Wu%3B+Zonghan%22&OS=%22Wu;+Zonghan%22&RS=%22Wu;+Zonghan%22)
+
+* [Out of Stock Analysis](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=%22Wu%3B+Zonghan%22&OS=%22Wu;+Zonghan%22&RS=%22Wu;+Zonghan%22)
+
