@@ -6,12 +6,12 @@ line. It is intended to be used for contact details -->
 
 ## Personnel Information 
 
-* Gender：Male
-* Birthday：1991.1.21  
-* Phone：1861670346X 
-* Mail：a47667824X@163.com    
-* Major：Software Engineering 
-* Position：Sr. Backend Enigneer
+- Male, 1991.1.21  
+- 18616703467
+- <a476678244@163.com>
+- From Shandong, living in Shanghai
+
+Senior Backend Engineer in Coupang currently.
 
 ## Education
          
