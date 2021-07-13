@@ -17,9 +17,10 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 - Bachelor`s Degree in Software Engineering
 - CET6
 
-## Programming Language Skills
+## Skills
 
-* Scala, Java, Python
+- Scala, Java, Python
+- Spark
 
 ## Working Experience
 
