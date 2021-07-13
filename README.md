@@ -4,14 +4,12 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 
-## Personnel Information 
-
-- Male, 1991.1.21  
+- Male, 1991.1.21, Married
 - 18616703467
 - <a476678244@163.com>
-- From Shandong, living in Shanghai
+- From Shandong province, living in Shanghai
 
-Senior Backend Engineer in Coupang currently.
+Senior Backend Engineer in Coupang, core developer in team and focusing on supply chain process optimizing.
 
 ## Education
          
