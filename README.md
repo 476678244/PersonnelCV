@@ -26,15 +26,11 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 ## Working Experience
 
 ### Coupang, Supply Chain Management team
-*   Senior Software Engineer
-*   2016.11 ~ Current
-*   Projects: 
-*   PO Automation(Daily batch job to place purchase order automatically for 10,000,000 skus.) 
-*   Fresh Ordering(Daily batch job to place purchase order automatically for fresh skus which is composed of different kinds of models.)
-*   Inbound Simulation(Forecasing a range of days inbound, inventory and purchase order volume level and used for order strategy decision.)
-*   OOS/Scrap Root Cause Analysis and Prediction(Analysing OOS/Scraps reasons and preventing OOS/Scrap by predicting them in advance using Convolutional Neural Network.)
-*   Task Engine (A framework for managing spark job, can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
-*   Skills: Spark in Scala, Redshift, Mongodb, Spring, AWS, PySpark, Tensorflow Keras
+-   Senior Software Engineer
+-        2016.11 ~ Current
+-   Projects: Core PO Automation (targeting for zero manual order) and fresh ordering(targeting for fresh business profitable). For these two ordering process, we implemented long term Inbound simulation to help improving instock planning. We also have a decision tree model to analyse OOS and scrap.
+-   My Role: I tuned the performance of the core batch job, then reduced costing time from 30 minutes to within 5 minutes. Basing on my refined code structure, running time only twiced after data volume grew ten times. I implemented the first version of inbound simulation using dynamic planning method. I worked with others to design OOSA decision tree and independently designed ScrapA decision tree. I developed a way to predict potiential oos and scrap in advance by using tensorflow to build convolutional nerual network. 
+-   Skills: Spark in Scala, Redshift, Mongodb, Spring boot, AWS, PySpark, Tensorflow Keras, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
 
 ### Red, WMS team 
 *  Java Developer
