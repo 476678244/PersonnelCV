@@ -32,17 +32,15 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 - Skills: Spark in Scala, Redshift, Mongodb, Spring boot, AWS, PySpark, Tensorflow Keras, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
 
 ### Red, WMS team 
-*  Java Developer
-*  2016.9 ~ 2016.10
-*  Project Description: Develop Red`s WMS system from scratch.
-*  Skills: Spring, Mybatis, JSP
+> Java Developer, 2016.9 ~ 2016.10
+- Project Description: Develop Red`s WMS system from scratch.
+- Skills: Spring, Mybatis, JSP
 
 
 ### SAP Success Factors, Platform team 
-*  Software Engineer Associate & company wide new employee trainer
-*  2012.7 ~ 2016.9
-*  Project Description:Role Based Permission, Job Profile Management, Hana/Oracle Migration Tool
-*  Skills: Jboss, Seam, Oracle, Hana
+> Software Engineer I -> II & New Employee Trainer, 2012.7 ~ 2016.9
+- Projects:Role Based Permission, Job Profile Management, Hana/Oracle Migration Tool
+- Skills: Jboss, Seam, Oracle, Hana
 
 ## Speech Experience
 * Fresh Scrap Prediction in Coupang Reveal 2020 developer conference
