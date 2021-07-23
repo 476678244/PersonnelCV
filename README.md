@@ -14,7 +14,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 
 ## Education
          
-### <span>Tongji University</span> <span>2009 -- 2013</span>
+### <span>Tongji University</span> <span>2009 ~ 2013</span>
 - Bachelor`s Degree in Software Engineering
 - CET6
 
