@@ -34,7 +34,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 ### Red, WMS team 
 > Java Developer, 2016.9 ~ 2016.10
 - Project Description: Develop Red`s WMS system from scratch.
-- Skills: Spring, Mybatis, JSP
+- Skills: JSP, Spring, Mybatis
 
 
 ### SAP Success Factors, Platform Service team 
