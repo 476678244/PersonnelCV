@@ -37,10 +37,11 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 - Skills: Spring, Mybatis, JSP
 
 
-### SAP Success Factors, Platform team 
+### SAP Success Factors, Platform Service team 
 > Software Engineer I -> II & New Employee Trainer, 2012.7 ~ 2016.9
-- Projects:Role Based Permission, Job Profile Management, Hana/Oracle Migration Tool
-- Skills: Jboss, Seam, Oracle, Hana
+- Projects: Role Based Permission, Dynamic Group Refreshing, Hana/Oracle Migration Tool, SAP Smart Express
+- My Role:
+- Skills: Jboss, Seam, Oracle, Hana, Storm
 
 ## Speech
 * Fresh Scrap Prediction in Coupang Reveal 2020 developer conference
