@@ -21,7 +21,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 ## Skills
 
 - Scala, Java, Python
-- Spark
+- Spark, Hadoop, AWS
 - Spring
 
 ## Working Experience
