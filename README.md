@@ -4,10 +4,10 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 
-:family_man_woman_girl:   Male, 1991.1.21, Married  
-:phone:   18616703467  
-:email:   <a476678244@163.com>  
-:house:   From Shandong Rizhao, living in Shanghai Pudong  
+:family_man_woman_girl:&nbsp;&nbsp;Male, 1991.1.21, Married  
+:phone:&nbsp;&nbsp;18616703467  
+:email:&nbsp;&nbsp;<a476678244@163.com>  
+:house:&nbsp;&nbsp;From Shandong Rizhao, living in Shanghai Pudong  
 [Github](https://github.com/476678244)  
 
 Senior Backend Engineer in Coupang, core developer in team and focusing on supply chain process optimizing.
