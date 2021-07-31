@@ -5,7 +5,7 @@
 line. It is intended to be used for contact details -->
 
 - Male, 1991.1.21, Married
-- 18616703467
+:telephone_receiver: 18616703467
 - <a476678244@163.com>
 - <https://github.com/476678244>
 - From Shandong province, living in Shanghai
