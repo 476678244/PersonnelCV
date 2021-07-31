@@ -8,7 +8,7 @@ line. It is intended to be used for contact details -->
 :telephone_receiver: 18616703467  
 :email: <a476678244@163.com>  
 :keyboard: <https://github.com/476678244>  
-:house: From Shandong province, living in Shanghai   
+:house: From Shandong Rizhao, living in Shanghai Pudong  
 
 Senior Backend Engineer in Coupang, core developer in team and focusing on supply chain process optimizing.
 
