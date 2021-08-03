@@ -41,7 +41,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 #### SAP Success Factors, Platform Service team 
 > Software Engineer I -> II & New Employee Trainer, 2012.7 ~ 2016.9
 - Projects: Role Based Permission, Dynamic Group Refreshing, Hana/Oracle Migration Tool, SAP Smart Express
-- My Role:
+- My Role: I started from intern role, working on writing unit test and improved test coverage to beyond 95%. Then I worked with global engineers to implement permission service as a platform to be integreted with different product team. There were existing one year, I am the single shanghai backend engineer facing to three QA members. I tuned the performance of dynamic group refreshing basing on existing code structure which is the pain point in business. After that, I worked with tech leader to implement next version of dynamic group refresh system. I learned from Hana Migration tool and developed my own Oracle Migration tool. I maintained a local Database and helped others to establish test environment on it. In part time, I worked with one architect and one UI engineer to implement SAP Express system which got SAP Smart Office Prize. 
 - Skills: Jboss, Seam, Oracle, Hana, Storm
 
 ## Highlights
