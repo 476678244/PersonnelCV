@@ -30,7 +30,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 > Senior Software Engineer, 2016.11 ~ Current
 - Projects: Core PO Automation (targeting for zero manual order) and fresh ordering(targeting for fresh business profitable). For these two ordering process, we implemented long term Inbound simulation to help doing better instock planning. We also had a decision tree model to analyse OOS and Scrap.
 - My Role: I tuned performance of the core daily job, then reduced costing time from 30 minutes to within 5 minutes.  Basing on my refined code structure, time cost only twiced after data volume grew ten times.  I implemented the first version of inbound simulation using DP algorithm.  I worked with others to design OOS(Out of stock) analysis decision tree and independently designed Scrap analysis decision tree.  I developed a way to predict potiential oos and scrap in advance by using tensorflow to build convolutional nerual network.  I refined data input/output method using reflection and annotation to fix the pain point of file read/write unstable. 
-- Skills: Spark in Scala, Redshift, Mongodb, Spring boot, AWS, PySpark, Tensorflow Keras, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
+- Skills: Spark, Redshift, Mongodb, Spring boot, Oozie, HDFS, S3, Airflow, Kafka, PySpark, Tensorflow Keras, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
 
 #### Red, WMS team 
 > Java Developer, 2016.9 ~ 2016.10
