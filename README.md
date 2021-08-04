@@ -13,7 +13,7 @@ line. It is intended to be used for contact details -->
 Senior Backend Engineer in Coupang, core developer in team and focusing on supply chain process optimizing.
 
 ## Education
-         
+
 #### <span>Tongji University</span> <span>2009 ~ 2013</span>
 - Bachelor`s Degree in Software Engineering
 - CET6
@@ -34,7 +34,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 
 #### Red, WMS team 
 > Java Developer, 2016.9 ~ 2016.10
-- Project Description: Develop Red`s WMS system from scratch.
+- Projects: Develop Red`s WMS system from scratch.
 - Skills: JSP, Spring, Mybatis
 
 
