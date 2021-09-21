@@ -1,5 +1,5 @@
 - 删除不必要的cache标记
-- 大rdd join 小rdd 转成  map  
+- 大rdd join 小rdd ,将reduce join转为map join+ broadcast
   
    > [vendor schedule]
 
@@ -22,4 +22,5 @@
 - groupByKey -> reduceByKey
   
    > RebateOpenOrderJoiner(L:28)
+
 
