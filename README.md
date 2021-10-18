@@ -26,11 +26,45 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 
 ## Working Experience
 
-#### Coupang, Supply Chain Management team
+#### Coupang, SCM team(supply chain)
 > Senior Software Engineer, 2016.11 ~ Current
-- Projects: Core PO Automation (targeting for zero manual order) and Rocket Fresh Ordering(star project, targeting for fresh business profitable). We have a series of scientific models supporting these processes and we also implemented a long term Inbound simulation to help doing better instock planning. We also had a decision tree model to analyse OOS and Scrap.
-- My Role: I tuned performance of core daily job, then reduced time consuming from 30 minutes to less than 5 minutes.  Basing on my refined code structure, time cost only doubled after data volume grew ten times.  I implemented the first version of long term inbound simulation using DP algorithm.  I worked with others to design OOS(Out of stock) analysis decision tree and independently designed Scrap analysis decision tree.  I developed a way to predict potential oos and scrap in advance by using tensorflow to build convolutional nerual network.  I refined data input/output method using reflection and annotation to fix the pain point of file unstable read/write function. I am also the bridge between engineering and data science. Once data scientist design a new model, I am able to implement it from engineer perspective.
-- Skills: Spark, Redshift, Mongodb, Spring boot, Oozie, HDFS, S3, Kafka, PySpark, Tensorflow Keras, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
+
+##### Projects:
+
+- Core PO Automation. Aiming for 100% po automation for Coupang online retailing business. We use long term inbound simulation(future 35 days) to help tuning ordering strategy.
+
+  - My Role:  I tuned performance of core daily job, then reduced time consuming from 30 minutes to less than 5 minutes.  I refined data input/output method using reflection and annotation to fix the pain point of file unstable read/write function. I implemented the first version of long term inbound simulation using DP algorithm.
+  - Skills: Spark RDD, Redshift, Spring boot, Oozie, S3/HDFS, Kafka, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
+
+- Rocket Fresh Ordering Automation. Company level star project, aiming to be the first company in industry to make fresh business profitable.
+
+  - My Role: I tuned performance of fresh daily job, reduced the main time cost data calculator from 10 minutes to less than 2 minutes. I integreted quantile forecast into system and push it to production via A/B testing.
+  - Skills: Spark RDD, Redshift, Spring boot, Airflow, S3, Task Engine
+
+- SCM Intelligence Platform. A python written intelligence platform supporting data scientists and engineers to develop scientific models for our ordering system.
+
+  - My Role: I worked with another two principle engineers to brainstorm this project and contributed most of the code. I introduced CPLEX optimizer into using to solve the pain point of low performance. I am also the bridge between engineering and data science. Once data scientist design a new model, I am able to implement it from engineer perspective.
+  - Skills: PySpark, Django, Gunicorn, Nginx, Ortools, CPLEX, Docker
+
+- OOSA and ScrapA. Decision tree model to analyse and reduce OOS(out of Stock) and Scrap in fresh business. We built data platform for OOS data and Scrap data along with main reason recommended.
+
+  - My Role: I worked with former tech lead to design OOSA and independently designed Scrap analysis decision tree though lack of PO role at that time. 
+  - Skills: Redshift, Spark Dataframe
+
+- OOS Prediction and Scrap Prediction. Using Convolutional Neural Netowork to predict and prevent OOS/Scrap in advance.
+
+  - My Role: It is my self-innovated project. I aim to introduce more intelligence functions to solve SCM area problems.
+  - Skills: PySpark, Tensorflow, Keras
+
+- SCM Planning Website. A website for operation team to monitor daily ordering jobs and configure ordering strategies.
+
+  - My Role: I self innovated two functions: Data monitoring to detect whether daily ordering result is in problem and tip roq story to track the log of ordering quantity change in the data flow.
+  - Skills: Spring Boot, MongoDB
+
+- Light Speed Ordering Automation. Company level strategic project, 15 minutes delivery in downtown areas.
+
+  - My Role: I`m leading this project to make light speed ordering process from manually work to automation currently.
+  - Skills: Spark RDD, Redshift, Spring boot, Airflow, S3, Task Engine
 
 #### Red, WMS team 
 > Java Developer, 2016.9 ~ 2016.10
