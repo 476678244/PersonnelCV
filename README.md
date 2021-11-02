@@ -44,12 +44,12 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 - SCM Intelligence Platform. A python written intelligence platform supporting data scientists and engineers to develop scientific models for our ordering system.
 
   - My Role: I worked with another two principle engineers to brainstorm this project and contributed most of the code. I introduced CPLEX optimizer into using to solve the pain point of low performance. I am also the bridge between engineering and data science. Once data scientist design a new model, I am able to implement it from engineer perspective.
-  - Skills: PySpark, Django, Gunicorn, Nginx, Ortools, CPLEX, Docker
+  - Skills: PySpark, Django, Gunicorn, Nginx, Ortools, CPLEX, Docker, pyecharts
 
 - OOSA and ScrapA. Decision tree model to analyse and reduce OOS(out of Stock) and Scrap in fresh business. We built data platform for OOS data and Scrap data along with main reason recommended.
 
   - My Role: I worked with former tech lead to design OOSA and independently designed Scrap analysis decision tree though lack of PO role at that time. 
-  - Skills: Redshift, Spark Dataframe
+  - Skills: Redshift, Spark Dataframe, Ooziebiter, Sqoop
 
 - OOS Prediction and Scrap Prediction. Using Convolutional Neural Netowork to predict and prevent OOS/Scrap in advance.
 
@@ -64,7 +64,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 - Light Speed Ordering Automation. Company level strategic project, 15 minutes delivery in downtown areas.
 
   - My Role: I`m leading this project to make light speed ordering process from manually work to automation currently.
-  - Skills: Spark RDD, Redshift, Spring boot, Airflow, S3, Task Engine
+  - Skills: Spark RDD, Redshift, Spring boot, S3, Task Engine
 
 #### Red, WMS team 
 > Java Developer, 2016.9 ~ 2016.10
