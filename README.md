@@ -80,7 +80,7 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
 
 ## Highlights
 #### Speech
-- Fresh Scrap Prediction in Coupang Reveal 2020 developer conference
+- [Fresh Scrap Prediction in Coupang Reveal 2020 developer conference](https://www.youtube.com/watch?v=NcRfDcJ-fzQ&ab_channel=CoupangReveal)
 - SAP Smart Express in SAP DKOM
 
 #### Patent
