@@ -66,12 +66,6 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
   - My Role: I`m leading this project to make light speed ordering process from manually work to automation currently.
   - Skills: Spark RDD, Redshift, Spring boot, S3, Task Engine
 
-#### Red, WMS team 
-> Java Developer, 2016.9 ~ 2016.10
-- Projects: Develop Red`s WMS system from scratch.
-- Skills: JSP, Spring, Mybatis
-
-
 #### SAP Success Factors, Platform Service team 
 > Software Engineer I -> II & New Employee Trainer, 2012.7 ~ 2016.9
 - Projects: Role Based Permission, Dynamic Group Refreshing, Hana/Oracle Migration Tool, SAP Smart Express
