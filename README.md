@@ -56,15 +56,6 @@ Senior Backend Engineer in Coupang, core developer in team and focusing on suppl
   - My Role: It is my self-innovated project. I aim to introduce more intelligence functions to solve SCM area problems.
   - Skills: PySpark, Tensorflow, Keras
 
-- SCM Planning Website. A website for operation team to monitor daily ordering jobs and configure ordering strategies.
-
-  - My Role: I self innovated two functions: Data monitoring to detect whether daily ordering result is in problem and tip roq story to track the log of ordering quantity change in the data flow.
-  - Skills: Spring Boot, MongoDB
-
-- Light Speed Ordering Automation. Company level strategic project, 15 minutes delivery in downtown areas.
-
-  - My Role: I`m leading this project to make light speed ordering process from manually work to automation currently.
-  - Skills: Spark RDD, Redshift, Spring boot, S3, Task Engine
 
 #### SAP Success Factors, Platform Service team 
 > Software Engineer I -> II & New Employee Trainer, 2012.7 ~ 2016.9
