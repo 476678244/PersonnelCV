@@ -1,5 +1,7 @@
 ## 商业 & 投资
 
+[股市长线法宝(在读)](https://book.douban.com/subject/26417291/)
+
 [漫步华尔街(读完)](https://book.douban.com/subject/10606457/)
 
 ## 科技 & 技术
