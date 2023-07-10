@@ -40,21 +40,21 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
 
 > Big Data Engineer, 2022.1 ~ Current
 
-**Projects:** 
+##### Projects:
 
 - Batch Feature Self-serve Platform: A Self-serve platform for users (BA and DS) to manage batch feature pipelines(airflow dags).
 
   - I refactored the legacy self-serve tool (by PR review), performance tuning and stability improving to the single node airflow server. 
   - Core contributor on DDF migration(single node Airflow -> Afterpay Airflow Platform) and snowflake migration(Redshift -> Snowflake).
   - I initiated the new batch self serve platform(based on Snowflake & GUI) and leading the project development.
-  - Skills: Pyspark, AWS Glue, Airflow, Redshift, Snowflake, Cassandra, Kubernetes, AWS Cloudwatch, Buildkite
+  > Skills: Pyspark, AWS Glue, Airflow, Redshift, Snowflake, Cassandra, Kubernetes, AWS Cloudwatch, Buildkite
 
 - Streaming Feature Self-serve Platform: A Self-serve platform for users (BA and DS) to manage streaming feature pipelines(flink jobs).
 
   - I implemented the Flink SQL & YML file auto generation logic and wrote an S3 DB(data storing in S3 file system) which is friendly to use for aws lambda running env.
   - I wrote a flink job restarting framework which reduced huge manual effort when maintaing large number of flink jobs.
 
-  - Skills: Flink, S3, AWS Lambda, Cassandra, Kafka, Datadog, Buildkite
+  > Skills: Flink, S3, AWS Lambda, Cassandra, Kafka, Datadog, Buildkite
 
     
 
@@ -93,7 +93,8 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
 
 #### Success Factors(SAP), Platform Service team (HR Management)
 > Backend Engineer & New Employee Trainer, 2012.7 ~ 2016.9
-**Projects:**
+
+##### Projects:
 
 - Role Based Permission, Dynamic Group Refreshing, Hana/Oracle Migration Tool, SAP Smart Express
   - I started my career from intern role, working on unit test and improved test coverage to over 95%. 
