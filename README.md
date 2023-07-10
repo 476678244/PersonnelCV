@@ -109,4 +109,5 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
   - I learned from Hana Migration tool and developed my own Oracle Migration tool. I maintained a local Database and helped others to establish their test environments. 
   - At part time, I worked with one architect and one UI engineer to implement SAP Express system(tech show in SAP DKOM event) which got SAP Smart Office Prize that year.
 
-​    ***Skills: Jboss, Seam, Oracle, Hana, JProfiler***
+    ***Skills: Jboss, Seam, Oracle, Hana, JProfiler***
+
