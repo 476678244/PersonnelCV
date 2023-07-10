@@ -47,14 +47,15 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
   - I refactored the legacy self-serve tool (by PR review), performance tuning and stability improving to the single node airflow server. 
   - Core contributor on DDF migration(single node Airflow -> Afterpay Airflow Platform) and snowflake migration(Redshift -> Snowflake).
   - I initiated the new batch self serve platform(based on Snowflake & GUI) and leading the project development.
-  > Skills: Pyspark, AWS Glue, Airflow, Redshift, Snowflake, Cassandra, Kubernetes, AWS Cloudwatch, Buildkite
+
+    ***Skills: Pyspark, AWS Glue, Airflow, Redshift, Snowflake, Cassandra, Kubernetes, AWS Cloudwatch, Buildkite***
 
 - Streaming Feature Self-serve Platform: A Self-serve platform for users (BA and DS) to manage streaming feature pipelines(flink jobs).
 
   - I implemented the Flink SQL & YML file auto generation logic and wrote an S3 DB(data storing in S3 file system) which is friendly to use for aws lambda running env.
   - I wrote a flink job restarting framework which reduced huge manual effort when maintaing large number of flink jobs.
 
-  > Skills: Flink, S3, AWS Lambda, Cassandra, Kafka, Datadog, Buildkite
+    ***Skills: Flink, S3, AWS Lambda, Cassandra, Kafka, Datadog, Buildkite***
 
     
 
@@ -69,14 +70,19 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
   - I tuned performance of core daily job, reduced time consuming 30 minutes -> 5m. I tuned performance of fresh daily job, reduced the main time cost data calculator from 10m -> 2m.
   - I refined data input/output method using reflection and annotation to fix the pain point of file unstable read/write function. 
   - I integreted quantile forecast into system and push it to production via A/B testing.
-  - Skills: Spark RDD, Redshift, Spring boot, Airflow, Kafka, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)
+
+    ***Skills: Spark RDD, Redshift, Spring boot, Airflow, Kafka, Task Engine (A self innovated framework for managing spark job: can view, submit, monitor and kill spark job as a web server instead of oozie UI.)***
 
 - SCM Intelligence Platform: A python written intelligence platform supporting data scientists and engineers to develop scientific models for our ordering system.
 
   - I worked with another two principle engineers to brainstorm this project and contributed most of the code. 
+
   - I implemented the first version of long term inbound simulation using DP algorithm. I introduced CPLEX optimizer into using to solve the pain point of low performance. 
+
   - I am also the bridge between engineering and data science. Once data scientist design a new model, I am able to implement it from engineer perspective.
-  - Skills: PySpark, Django, Gunicorn, Nginx, Ortools, CPLEX, Docker, pyecharts
+  
+  
+    ***Skills: PySpark, Django, Gunicorn, Nginx, Ortools, CPLEX, Docker, pyecharts***
 
 - OOSA and ScrapA (along with OOS Prediction and Scrap Prediction): Decision tree model to analyse and reduce OOS(out of Stock) and Scrap in fresh business. We built data platform for OOS data and Scrap data along with main reason recommended.
 
@@ -86,7 +92,7 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
 
   - Project show on [Fresh Scrap Prediction in Coupang Reveal 2020 developer conference](https://www.youtube.com/watch?v=NcRfDcJ-fzQ&ab_channel=CoupangReveal)
 
-  - Skills: Redshift, Ooziebiter, Sqoop, PySpark, Tensorflow, Keras
+    ***Skills: Redshift, Ooziebiter, Sqoop, PySpark, Tensorflow, Keras***
 
     
 
@@ -102,5 +108,5 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
   - I tuned performance of existing dynamic group refreshing logic which is the pain point in business. After that, I worked with tech leader to implement next version of refreshing system([US 20180159952 A1](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Wu%3B+Zonghan%22&OS=%22Wu;+Zonghan%22&RS=%22Wu;+Zonghan%22)). 
   - I learned from Hana Migration tool and developed my own Oracle Migration tool. I maintained a local Database and helped others to establish their test environments. 
   - At part time, I worked with one architect and one UI engineer to implement SAP Express system(tech show in SAP DKOM event) which got SAP Smart Office Prize that year.
-  - Skills: Jboss, Seam, Oracle, Hana, JProfiler
 
+​         ***Skills: Jboss, Seam, Oracle, Hana, JProfiler***
