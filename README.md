@@ -36,7 +36,7 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
 
 ## Working Experience
 
-#### Afterpay(SQ), ML Feature Engineering Team (Risk Management)
+#### Afterpay(Block), ML Feature Engineering Team (Risk Management)
 
 > Big Data Engineer, 2022.1 ~ Current
 
