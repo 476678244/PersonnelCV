@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 :house:&nbsp;&nbsp;From Shandong Rizhao, living in Shanghai Pudong  
 [Github](https://github.com/476678244)  
 
-Worked as a software engineer for 10 years, 5 years experience in Supply Chain Management Domain, 7 years experience in Big Data Engineering (Batch & Streaming).
+Worked as a software engineer for 14 years, 8 years experience in Big Data Engineering (Batch & Streaming), 5 years experience in AI/ML (prediction models, LLM hosting and AI Agents).
 
 
 
@@ -28,17 +28,39 @@ Worked as a software engineer for 10 years, 5 years experience in Supply Chain M
 
 - Scala, Java, Python
 
-- Spark(RDD, Dataframe, Pyspark), Flink, Hadoop, AWS
+- Lightgbm, Langraph, Crew AI, Spark(RDD, Dataframe, Pyspark), Flink, Hadoop, AWS
 
 - Spring, Airflow, Docker, Kafka
+
+- ML prediction (Safety Stock, Inventory, FillRate, OOS Risk), LLM hosting (open source LLM and embedding model), Full stack AI Agent (Business purpose: PO Automation, Data Analysis, Optimization AI Assistant), Knowledge Base, Flow coding and SCMA stack (SCM Engineering team AI dev standard pipeline guidance & utils), Skill Management
 
   
 
 ## Working Experience
 
+#### Coupang(CPNG), SCM (Supply Chain Management)
+
+> AI/ML Engineer/Data Science, 2023.8 ~ Current
+
+##### Projects:
+
+- ML Prediction Model (Safety Stock, Inventory, FillRate, OOS Risk)
+
+- LLM Hosting (open source LLM and embedding model)
+
+- Full stack AI Agent Development (Business purpose: PO Automation, Data Analysis, Optimization AI Assistant)
+
+- AI Knowledge Base Building
+
+- Flow Coding and SCMA stack (SCM Engineering team AI dev standard pipeline guidance & utils)
+
+- Skill Management System and Skill Governance
+
+    
+
 #### Afterpay(Block), ML Feature Engineering Team (Risk Management)
 
-> Big Data Engineer, 2022.1 ~ Current
+> Big Data Engineer, 2022.1 ~ 2023.8
 
 ##### Projects:
 
